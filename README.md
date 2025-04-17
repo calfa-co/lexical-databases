@@ -5,7 +5,7 @@
 
 This repository contains the raw files of the lexical databases for the Classical Armenian-French-English dictionary, known as Calfa.fr. The dictionary includes in total **65,430 entries** with **155,000 examples** from **400 different sources**, such as Armenian historiography, the Gospels, and liturgical books. It also includes proper names from Classical Armenian literature and synonyms. 
 
-The dictionary is a compilation, standardization, and update of multiple reference dictionaries (see the list of references below). For a description of the methodology, refer to the "To cite this work" section. It mainly consists of Classical Armenian headwords, but the databases also contain multiple middle or pre-modern forms and translations, indicated by an asterisk (*).
+The dictionary is a compilation, standardization, and update of multiple reference dictionaries (see the list of references below). For a description of the methodology, refer to the "To cite this work" section. It mainly consists of Classical Armenian headwords, but the databases also contain multiple middle or pre-modern forms and translations, indicated by an asterisk (\*).
 
 These data can be freely used under a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -21,7 +21,7 @@ The dictionary was originally digitized and OCR-processed (manually proofread) b
 * J̌axǰaxean Manuēl, Dizionario armeno-italiano, Venise, 1837.
 
 #### Additional Resources
-* (etymological) Ačaṙean Hrač‘eay, Հայերէն արմատական բառարան (= Etymological Dictionary of the Armenian Language), Erevan, 1926.
+* **(etymological) Ačaṙean Hrač‘eay, Հայերէն արմատական բառարան (= Etymological Dictionary of the Armenian Language), Erevan, 1926** (working document, AI processed, see [Blog announcement](https://calfa.fr/blog/55)).
 * **(synonyms) Łazarean Ṙupēn, Գրաբարի հոմանիշների բառարան (= Dictionary of Classical Armenian Synonyms), Antélias, 2006**.
 * Hübschmann Henrich, Armenische Grammatik, Leipzig, 1897.
 * Čōlagean Timit̕rios, (= New Dictionary from Armenian to Greek), Constantinople, 1868.
